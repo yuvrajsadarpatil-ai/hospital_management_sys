@@ -17,3 +17,5 @@ This project is a simple website developed as part of my academic work.
 This project is used to demonstrate Git and GitHub version control operations, including commits, branches, merging and conflict resolution.
 
 Git Assignment: Practicing Git and GitHub commands.
+
+This change was created on the 2ndbranch branch.
